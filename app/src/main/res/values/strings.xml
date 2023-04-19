@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAplication</string>
+    <string name="button">Button</string>
+    <string name="my_first_app">My First App!!</string>
+</resources>
